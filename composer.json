@@ -1,0 +1,19 @@
+{
+    "name": "z2z/test",
+    "description": "My first package",
+    "type": "library",
+    "require": {
+        "backpack/crud": "^3.6"
+    },
+    "require-dev": {
+        "backpack/crud": "^3.6"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nurdaulet",
+            "email": "nurik9293709@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
